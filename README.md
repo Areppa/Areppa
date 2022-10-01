@@ -1,6 +1,6 @@
 ### Hi there, I'm Aaro 👋
 
-I study Computer Science student at Tampere University.
+I study Computer Science at Tampere University.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Areppa&show_icons=true&theme=github_dark" /> 
 
