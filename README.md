@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Aaro 👋
+
+I study Computer Science student at Tampere University.
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Areppa&show_icons=true&theme=github_dark" /> 
+
+<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areppa&layout=compact&theme=github_dark" />
 
 <!--
 **Areppa/Areppa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
